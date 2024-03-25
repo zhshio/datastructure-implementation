@@ -8,7 +8,7 @@
   </parent>
 
   <groupId>cn.zhshio</groupId>
-  <artifactId>ArraysAndList</artifactId>
+  <artifactId>arrays_and_list</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>ArraysAndList</name>

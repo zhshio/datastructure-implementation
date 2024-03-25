@@ -23,7 +23,10 @@
     </properties>
 
     <modules>
-        <module>ArraysAndList</module>
+        <module>arrays_and_list</module>
+        <module>tree</module>
+        <module>queue</module>
+        <module>stack</module>
     </modules>
     <dependencies>
         <dependency>
@@ -32,7 +35,5 @@
             <version>3.8.1</version>
             <scope>test</scope>
         </dependency>
-
-
     </dependencies>
 </project>
